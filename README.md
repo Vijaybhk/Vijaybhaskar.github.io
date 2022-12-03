@@ -2,6 +2,8 @@
 
 Welcome to my Github Page
 
+Created as a part of BDA594 assignement.
+
 ### Google Public Data
 
 Here is my opinion on one of the datasets found linked from [Awesome-DataScience](https://GitHub.com/bulutyazilim/awesome-datascience)
